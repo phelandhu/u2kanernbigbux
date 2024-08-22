@@ -1,2 +1,7 @@
-# u2kanernbigbux
-The engine for the survey to find out if you too can earn big bucks
+<p align="center">U 2 KAN ERN BIG BUX</p>
+
+
+## About Gram's School for Adventuring
+
+This here survey is to measure your potential for being an adventurer
+
